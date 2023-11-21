@@ -13,5 +13,6 @@ RUN sudo apt-get update \
    libxtst6 \
    xauth \
    xvfb \
+   firefox \
  && sudo rm -rf /var/lib/apt/lists/*
  
